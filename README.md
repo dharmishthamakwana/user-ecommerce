@@ -26,10 +26,3 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/dharmishthamakwana/user-ecommerce/assets/114208599/cc880dcc-646d-4441-b88b-967e21e2b4af"height=32% width=35%>
 <img src="https://github.com/dharmishthamakwana/user-ecommerce/assets/114208599/5f200a38-8f75-4266-8fe9-dc7a19a3d7fe"height=32% width=35%>
 
-
-
-
-
-![5]()
-![4]()
-
